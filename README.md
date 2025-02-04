@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m @NadirGuermoudi, a PhD student at the University of Tlemcen and an ATER at ENSMA (LIAS Laboratory). My research focuses on core database optimization, particularly on spatial and spatio-temporal data. I am passionate about enhancing the efficiency of query processing and indexing techniques to improve database performance.
+I’m @NadirGuermoudi, a PhD student at the University of Tlemcen and ATER at ENSMA (LIAS Laboratory). My research focuses on core database optimization, particularly on spatial and spatio-temporal data. I am passionate about enhancing the efficiency of query processing and indexing techniques to improve database performance.
 
 ## 👀 Interests
 
