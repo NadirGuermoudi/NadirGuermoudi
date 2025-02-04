@@ -1,5 +1,5 @@
 ## 👋 Hello, world! 🌍 Welcome to my GitHub space!
-
+🔥 Let's build something amazing together!
 <!--
 **NadirGuermoudi/NadirGuermoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,6 +34,6 @@ I’m interested in databases, data science, and AI, but more broadly, I enjoy w
 
 I’m always looking for exciting new research projects and collaborations, particularly in database optimization, spatial data indexing, and efficient query processing. Feel free to reach out to me:
 
-📫 Email: nadir.guermoudi@gmail.com
-✖️ : [X](https://x.com/GuermoudiN)
-🔗 [LinkedIn](https://x.com/GuermoudiN)
+- 📫 Email: nadir.guermoudi@gmail.com
+- ✖️ : [X](https://x.com/GuermoudiN)
+- 🔗 [LinkedIn](https://x.com/GuermoudiN)
