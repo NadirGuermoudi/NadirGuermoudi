@@ -28,7 +28,7 @@ I’m interested in databases, data science, and AI, but more broadly, I enjoy w
 - Web & Mobile Development: JavaScript (NodeJS, VueJS/NuxtJS), PHP (Laravel), Android, Flutter
 - Databases: MySQL, PostgreSQL, MongoDB, Oracle Database
 - Collaboration Tools: Git/GitHub, LaTeX, Trello, Taiga
-- Data Science Stack: NumPy, Pandas, scikit-learn, TensorFlow, Matplotlib, Seaborn
+- Data Science Stack: NumPy, SciPy, Pandas, scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn
 
 ## 📢 Let's Connect!
 
